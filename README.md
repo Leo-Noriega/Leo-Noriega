@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leonardo Noriega</h1>
 <h3 align="left">A passionate software developer from México 🇲🇽</h3>
 
-- 💼 I'm currently working on my website and the a project for my university.
+- 💼 I'm currently working on my website and an IoT project for my university.
 
 - 📬 How to reach me: **leonoriega100@gmail.com**
 
