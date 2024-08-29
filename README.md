@@ -7,12 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-noriega&label=Profile%20views&color=9745F5&style=for-the-badge" alt="leo-noriega" /> </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Leo-Noriega&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-Noriega&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
-</a>
 <h3 align="left">Some Technologies, Languages and Tools I've used:</h3>
 
 ![Badge](https://img.shields.io/badge/AWS-9745F5?style=for-the-badge&logo=amazonwebservices)
