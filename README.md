@@ -1,11 +1,17 @@
 <h1 align="center">Hi, I'm Leonardo Noriega</h1>
-<h3 align="left">A passionate software developer from México 🇲🇽</h3>
+<h3 align="left">A passionate software developer and cli enthusiast from México 🇲🇽</h3>
 
-* 💼 Currently, I’m part of the INROADS program, pursuing the Google 2024 Data Analysis Certificate.
-* 🔋 I also work at “A3E Ingenieros,” a company providing engineering and consulting services in the energy sector.
+* 💼 Currently, I'm working in a projects developed using Spring, Django, React and Oracle APEX and doing excercises in LeetCode.
+* 🔋 I also work at “A3E Ingenieros” a company providing engineering and consulting services in the energy sector.
 * 📬 How to reach me: **leonoriega100@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-noriega&label=Profile%20views&color=9745F5&style=for-the-badge" alt="leo-noriega" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/leo-noriega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo-noriega" height="30" width="40" /></a>
+<a href="https://instagram.com/tsmfl.zzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sd" height="30" width="40" /></a>
+</p>
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Leo-Noriega&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-Noriega&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
@@ -37,9 +43,5 @@
 ![Badge](https://img.shields.io/badge/Gitlab-9745F5?style=for-the-badge&logo=gitlab)
 ![Badge](https://img.shields.io/badge/Linux-9745F5?style=for-the-badge&logo=linux)
 ![Badge](https://img.shields.io/badge/MAcos-9745F5?style=for-the-badge&logo=macos)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/leo-noriega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo-noriega" height="30" width="40" /></a>
-<a href="https://instagram.com/tsmfl.zzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sd" height="30" width="40" /></a>
-</p>
 
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Leo-Noriega&column=9&margin-w=18&margin-h=20&theme=onestar" alt="Leo-Noriega achievements" /></a> </p>
